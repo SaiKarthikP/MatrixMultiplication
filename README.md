@@ -5,7 +5,7 @@ Implementation of Matrix Multiplication methods:
 
 Description
 ----
-This program compares the time taken to multiply two square matrices of a specified size N using the 3 methods.
+This program compares the time taken to multiply two randomly generated square matrices of a specified size N using the 3 methods.
 
 
 How to run the program
